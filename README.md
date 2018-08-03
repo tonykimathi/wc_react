@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/tonykimathi/wc_react.svg?branch=ch-setup-continuous-integration-159515467)(https://travis-ci.org/tonykimathi/wc_react)
+![Build Status](https://travis-ci.org/tonykimathi/wc_react.svg?branch=ch-setup-continuous-integration-159515467)
 [![Coverage Status](https://coveralls.io/repos/github/tonykimathi/wc_react/badge.svg)](https://coveralls.io/github/tonykimathi/wc_react)
 
 # WeConnect App

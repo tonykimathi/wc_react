@@ -1,5 +1,15 @@
+import {auth, passwordReset} from './AuthReducer';
+import { businesses, business } from './BusinessesReducer';
+import crud from './BusinessReducer';
 import { combineReducers } from 'redux';
-import authReducer from './authReducer';
+
+/**
+ * Combine and export all Reducer
+ */
 export default combineReducers({
- authReducer
+  auth,
+  crud,
+  businesses,
+  business,
+  passwordReset
 });

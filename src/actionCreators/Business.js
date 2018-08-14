@@ -3,7 +3,7 @@ import axios from 'axios';
 import history from '../history'
 import swal from 'sweetalert';
 import { api_url, request_header } from './../config';
-import { logout } from '../actions/Logout';
+import { logout } from '../actionCreators/Logout';
 
 /**
  * Add book function

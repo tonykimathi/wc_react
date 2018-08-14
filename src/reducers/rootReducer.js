@@ -1,4 +1,4 @@
-import {auth, passwordReset} from './AuthReducer';
+import {auth, passwordReset} from './authReducer';
 import { businesses, business } from './BusinessesReducer';
 import crud from './BusinessReducer';
 import { combineReducers } from 'redux';

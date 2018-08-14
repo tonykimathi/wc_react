@@ -10,7 +10,7 @@ import {
   RESET_PASSWORD_SUCCESS,
   RESET_PASSWORD_FAIL,
   PASSWORD_FETCHING
-} from '../actions/constants';
+} from '../actionCreators/constants';
 
 const initialState = {
   Message: '',

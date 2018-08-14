@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { connect } from 'react-redux';
 import PropTypes from 'prop-types';
 import { Button, Form, Label, Input, Alert } from 'reactstrap';
-import { register } from '../actionCreators/Register';
+import { register } from '../actionCreators/register';
 import { loader } from './../config';
 
 /**

@@ -3,7 +3,7 @@ import { connect } from 'react-redux';
 import { Link } from 'react-router-dom';
 import history from '../history';
 import { Button, Form, Label, Input, Alert } from 'reactstrap';
-import { login } from '../actionCreators/Login';
+import { login } from '../actionCreators/login';
 import { loader } from './../config';
 import PropTypes from 'prop-types';
 

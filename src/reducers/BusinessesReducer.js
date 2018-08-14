@@ -3,7 +3,7 @@ import {
   GET_ONE_BUSINESS_SUCCESS,
   GET_ONE_BUSINESS_FAIL,
   FETCHING_BUSINESSES
-} from '../actions/constants';
+} from '../actionCreators/constants';
 
 const initialState = {
   businesses: [],

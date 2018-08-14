@@ -6,7 +6,7 @@ import {
   EDIT_BUSINESS_SUCCESS,
   ADD_REVIEW_SUCCESS,
   ADD_REVIEW_FAIL
-} from '../actions/constants';
+} from '../actionCreators/constants';
 
 const initialState = {
   Message: '',
